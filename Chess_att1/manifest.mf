@@ -1,3 +1,0 @@
-Main-Class: edu.csf.oop.java.chess.Game.Main
-Class-Path: bin/ /lib/logback-classic-1.2.3.jar /lib/logback-core-1.2.3.jar /lib/slf4j-api-1.7.25.jar
-
